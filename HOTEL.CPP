@@ -54,7 +54,7 @@ while(choice!=5)
 
   system("cls");
 cout<<"\n\t\t\t\t*************************";
-cout<<"\n\t\t\t\t SIMPLE HOTEL MANAGEMENT[Group 2]  ";
+cout<<"\n\t\t\t\t SIMPLE HOTEL MANAGEMENT[Group 3]  ";
 cout<<"\n\t\t\t\t      * MAIN MENU *";
 cout<<"\n\t\t\t\t*************************";
 cout<<"\n\n\n\t\t\t1.Book A Room";
@@ -467,9 +467,16 @@ hotel h;
 cout<<"\n\t\t\t****************************";
 cout<<"\n\t\t\t* HOTEL MANAGEMENT PROJECT *";
 cout<<"\n\t\t\t****************************";
-cout<<"\n\n\t\tDeveloped By:";
-cout<<"\t G. Rohit";
-cout<<"\n\n\n\n\n\n\n\t\t\t\t\tPress any key to continue....!!";
+cout<<"\n\n\n\t\t\t       *************";
+cout<<"\n\t\tDeveloped By:";
+cout<<"  ** GROUP 3 **";
+cout<<"\n\t\t\t       *************";
+cout<<"\n\n\t\t\t\t1. Musa Molla ";
+cout<<"\n\t\t\t\t2. Ashik ";
+cout<<"\n\t\t\t\t3. Fahim ";
+cout<<"\n\t\t\t\t4. Aminul ";
+cout<<"\n\t\t\t\t5. Eva Mira ";
+cout<<"\n\n\n\n\t\t\tPress any key to continue....!!";
 
 getch();
 
